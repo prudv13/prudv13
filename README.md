@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=prudv13.prudv13" />
+
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Prudhvi!;" />
@@ -49,14 +49,6 @@ A passionate and dedicated Fullvstack Developer and UX Designer with a year of i
 
 <br/>
 <hr/>
-
-<div align="center">
-  <h3>🐍 My Contributions 🐍</h3>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/prudv13/prudv13/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
 
 <hr/>
 
