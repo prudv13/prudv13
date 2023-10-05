@@ -6,7 +6,7 @@
 
 <h3 align="center">Web Developer, UX Designer from India.</h3>
 <p>
-A passionate and dedicated Fullvstack Developer and UX Designer with a year of invaluable experience under my belt. From lines of code to pixel-perfect designs, I thrive at the intersection of technology and creativity. I believe in the power of user-centered design and seamless functionality, and I’m on a mission to craft digital experiences that leave a lasting impact. I see every project as an opportunity to create intuitive, visually appealing, and emotionally resonant experiences.
+A passionate and dedicated Fullvstack Developer and UX Designer. From lines of code to pixel-perfect designs, I thrive at the intersection of technology and creativity. I believe in the power of user-centered design and seamless functionality, and I’m on a mission to craft digital experiences that leave a lasting impact. I see every project as an opportunity to create intuitive, visually appealing, and emotionally resonant experiences.
 </p>
 
 <br/>
