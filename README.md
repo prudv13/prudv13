@@ -15,7 +15,7 @@ A passionate and dedicated Fullvstack Developer and UX Designer. From lines of c
  
  🔭 I’m currently working on **personal projects**
  
- 🌱 I’m currently learning **React, Typescript, NextJs, NodeJs, MongoDB**
+ 🌱 I’m currently learning **React, Typescript**
 *
  
  </div>
