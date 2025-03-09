@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Prudhvi!;" />
 </h1>
 
-<h3 align="center">Web Developer, UX Designer from India.</h3>
+<h3 align="center">Product/UX Designer, Full-stack Developer from India.</h3>
 <p>
 A passionate and dedicated Fullvstack Developer and UX Designer. From lines of code to pixel-perfect designs, I thrive at the intersection of technology and creativity. I believe in the power of user-centered design and seamless functionality, and I’m on a mission to craft digital experiences that leave a lasting impact. I see every project as an opportunity to create intuitive, visually appealing, and emotionally resonant experiences.
 </p>
