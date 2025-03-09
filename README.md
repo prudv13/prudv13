@@ -33,7 +33,7 @@ A passionate and dedicated Fullvstack Developer and UX Designer. From lines of c
   <a href="https://dribbble.com/prudhvi13" target="_blank">
     <img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" target="_blank" />
   </a>
-  <a href="https://twitter.com/prudv_13">
+  <a href="https://x.com/prudv_ux">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
 </div>
@@ -43,7 +43,7 @@ A passionate and dedicated Fullvstack Developer and UX Designer. From lines of c
 <h3 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h3>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript,react,typescript,firebase,figma" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript,react,typescript,figma" /><br>
     <img src="https://skillicons.dev/icons?i=git,webpack,babel,java,spring,mysql,docker" />
 </div>
 
